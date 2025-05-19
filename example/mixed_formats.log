@@ -1,0 +1,5 @@
+[2023-10-22 08:30:00] INFO: Normal entry
+Invalid log format without timestamp
+[2023-10-22 08:30:05] WARN: Missing required parameter "timeout"
+[ERROR] Something went very wrong!      # Неполный формат
+[2023-10-22 08:30:10] DEBUG: Session ID: 0x7f3a1b

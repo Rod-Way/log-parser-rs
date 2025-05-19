@@ -1,0 +1,7 @@
+[2023-10-21 14:00:01] ERROR: Critical system failure - code 500
+[2023-10-21 14:00:05] WARN: Disk space low (92% used)
+[2023-10-21 14:00:10] ERROR: Network adapter not responding
+[2023-10-21 14:00:15] ERROR: Authentication service unavailable
+[2023-10-21 14:00:20] INFO: Starting emergency recovery
+[2023-10-21 14:00:25] DEBUG: Stack trace: 0x45f3a1
+[2023-10-21 14:00:30] ERROR: Data consistency check failed
